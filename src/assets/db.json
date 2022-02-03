@@ -1,0 +1,74 @@
+{
+    "employee": [
+      {
+        "empId": "abcdef",
+        "employeeName": "Aprajita",
+        "PhoneNumber": 9128815414,
+        "empEmail": "aprajitasingh8996@gmail.com",
+        "Skill": [],
+        "id": "324567"
+      },
+      {
+        "empId": "1234",
+        "employeeName": "Niku",
+        "PhoneNumber": 9898989898989,
+        "empEmail": "niku@gmail.com",
+        "Skill": [],
+        "id": "Gaf2hDc"
+      },
+      {
+        "empId": "1432",
+        "employeeName": "Dibyani",
+        "PhoneNumber": 9897654578,
+        "empEmail": "dibyani@gmail.com",
+        "Skill": [],
+        "id": "83oXnvk"
+      },
+      {
+        "empId": "ty_kalyani",
+        "employeeName": "Kalyani",
+        "PhoneNumber": 9754234567,
+        "empEmail": "kalyani@gmail.com",
+        "Skill": [],
+        "id": "zYiy3rS"
+      },
+      {
+        "empId": "98976",
+        "employeeName": "Santosh",
+        "PhoneNumber": 98480223382345680,
+        "empEmail": "santosh@gmail.com",
+        "Skill": [
+          {
+            "skills": "",
+            "profinecy": "",
+            "exp": ""
+          }
+        ],
+        "id": "coTcDrC"
+      },
+      {
+        "empId": "ty10274572",
+        "employeeName": "Aman",
+        "PhoneNumber": 7801015921,
+        "empEmail": "aman@gmail.com",
+        "Skill": [],
+        "id": "Cwy2v85"
+      },
+      {
+        "empId": "ty10274572",
+        "employeeName": "dps",
+        "PhoneNumber": 7801015921,
+        "empEmail": "dps@gmail.com",
+        "Skill": [],
+        "id": "y53oJqW"
+      },
+      {
+        "empId": "123456",
+        "employeeName": "giri",
+        "PhoneNumber": 1234567,
+        "empEmail": "giri@gmail.com",
+        "Skill": [],
+        "id": "biCZfUW"
+      }
+    ]
+  }
